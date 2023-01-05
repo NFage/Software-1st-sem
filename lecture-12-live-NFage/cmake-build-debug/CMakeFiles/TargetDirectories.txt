@@ -1,0 +1,7 @@
+C:/Users/Bruger/CLionProjects/lecture-12-live-NFage/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bruger/CLionProjects/lecture-12-live-NFage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Bruger/CLionProjects/lecture-12-live-NFage/cmake-build-debug/src/CMakeFiles/planets.dir
+C:/Users/Bruger/CLionProjects/lecture-12-live-NFage/cmake-build-debug/src/CMakeFiles/car.dir
+C:/Users/Bruger/CLionProjects/lecture-12-live-NFage/cmake-build-debug/src/CMakeFiles/scratch.dir
+C:/Users/Bruger/CLionProjects/lecture-12-live-NFage/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Bruger/CLionProjects/lecture-12-live-NFage/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir

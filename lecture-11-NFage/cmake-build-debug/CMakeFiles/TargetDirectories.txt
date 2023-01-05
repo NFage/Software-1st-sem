@@ -1,0 +1,13 @@
+C:/Users/Bruger/CLionProjects/lecture-11-NFage/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bruger/CLionProjects/lecture-11-NFage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Bruger/CLionProjects/lecture-11-NFage/cmake-build-debug/src/CMakeFiles/exercise-10.2.dir
+C:/Users/Bruger/CLionProjects/lecture-11-NFage/cmake-build-debug/src/CMakeFiles/exercise-11.1.dir
+C:/Users/Bruger/CLionProjects/lecture-11-NFage/cmake-build-debug/src/CMakeFiles/exercise-11.3.dir
+C:/Users/Bruger/CLionProjects/lecture-11-NFage/cmake-build-debug/src/CMakeFiles/exercise-11.5.dir
+C:/Users/Bruger/CLionProjects/lecture-11-NFage/cmake-build-debug/src/CMakeFiles/exercise-PSPDC-587-1.dir
+C:/Users/Bruger/CLionProjects/lecture-11-NFage/cmake-build-debug/src/CMakeFiles/exercise-PSPDC-588-3.dir
+C:/Users/Bruger/CLionProjects/lecture-11-NFage/cmake-build-debug/src/CMakeFiles/calculator.dir
+C:/Users/Bruger/CLionProjects/lecture-11-NFage/cmake-build-debug/src/CMakeFiles/live.dir
+C:/Users/Bruger/CLionProjects/lecture-11-NFage/cmake-build-debug/src/CMakeFiles/live-opgave.dir
+C:/Users/Bruger/CLionProjects/lecture-11-NFage/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Bruger/CLionProjects/lecture-11-NFage/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
