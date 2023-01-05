@@ -1,0 +1,7 @@
+C:/Users/Bruger/CLionProjects/lecture-13-live-NFage/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bruger/CLionProjects/lecture-13-live-NFage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Bruger/CLionProjects/lecture-13-live-NFage/cmake-build-debug/src/CMakeFiles/list_cashier.dir
+C:/Users/Bruger/CLionProjects/lecture-13-live-NFage/cmake-build-debug/src/CMakeFiles/tree_cashier.dir
+C:/Users/Bruger/CLionProjects/lecture-13-live-NFage/cmake-build-debug/src/CMakeFiles/live.dir
+C:/Users/Bruger/CLionProjects/lecture-13-live-NFage/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Bruger/CLionProjects/lecture-13-live-NFage/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir

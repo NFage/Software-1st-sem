@@ -1,0 +1,10 @@
+C:/Users/Bruger/CLionProjects/lecture-12-NFage/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bruger/CLionProjects/lecture-12-NFage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Bruger/CLionProjects/lecture-12-NFage/cmake-build-debug/src/CMakeFiles/exercise-13.1.dir
+C:/Users/Bruger/CLionProjects/lecture-12-NFage/cmake-build-debug/src/CMakeFiles/exercise-13.2.dir
+C:/Users/Bruger/CLionProjects/lecture-12-NFage/cmake-build-debug/src/CMakeFiles/exercise-13.3.dir
+C:/Users/Bruger/CLionProjects/lecture-12-NFage/cmake-build-debug/src/CMakeFiles/exercise-13.4.dir
+C:/Users/Bruger/CLionProjects/lecture-12-NFage/cmake-build-debug/src/CMakeFiles/exercise-13.5.dir
+C:/Users/Bruger/CLionProjects/lecture-12-NFage/cmake-build-debug/src/CMakeFiles/live.dir
+C:/Users/Bruger/CLionProjects/lecture-12-NFage/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Bruger/CLionProjects/lecture-12-NFage/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
