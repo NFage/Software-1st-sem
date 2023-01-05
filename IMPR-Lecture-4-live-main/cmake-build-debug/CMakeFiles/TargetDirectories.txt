@@ -1,0 +1,9 @@
+C:/Users/Bruger/CLionProjects/IMPR-Lecture-4-live-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bruger/CLionProjects/IMPR-Lecture-4-live-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Bruger/CLionProjects/IMPR-Lecture-4-live-main/cmake-build-debug/src/CMakeFiles/firkant.dir
+C:/Users/Bruger/CLionProjects/IMPR-Lecture-4-live-main/cmake-build-debug/src/CMakeFiles/trekant.dir
+C:/Users/Bruger/CLionProjects/IMPR-Lecture-4-live-main/cmake-build-debug/src/CMakeFiles/omvendt.dir
+C:/Users/Bruger/CLionProjects/IMPR-Lecture-4-live-main/cmake-build-debug/src/CMakeFiles/live.dir
+C:/Users/Bruger/CLionProjects/IMPR-Lecture-4-live-main/cmake-build-debug/src/CMakeFiles/guess.dir
+C:/Users/Bruger/CLionProjects/IMPR-Lecture-4-live-main/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Bruger/CLionProjects/IMPR-Lecture-4-live-main/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir

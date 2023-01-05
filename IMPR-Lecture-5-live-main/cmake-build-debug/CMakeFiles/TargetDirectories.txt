@@ -1,0 +1,6 @@
+C:/Users/Bruger/CLionProjects/IMPR-Lecture-5-live-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bruger/CLionProjects/IMPR-Lecture-5-live-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Bruger/CLionProjects/IMPR-Lecture-5-live-main/cmake-build-debug/src/CMakeFiles/cirkel.dir
+C:/Users/Bruger/CLionProjects/IMPR-Lecture-5-live-main/cmake-build-debug/src/CMakeFiles/trekant.dir
+C:/Users/Bruger/CLionProjects/IMPR-Lecture-5-live-main/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Bruger/CLionProjects/IMPR-Lecture-5-live-main/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
