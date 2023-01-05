@@ -1,0 +1,5 @@
+C:/Users/Bruger/CLionProjects/handin-4-NFage/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bruger/CLionProjects/handin-4-NFage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Bruger/CLionProjects/handin-4-NFage/cmake-build-debug/src/CMakeFiles/handin4.dir
+C:/Users/Bruger/CLionProjects/handin-4-NFage/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Bruger/CLionProjects/handin-4-NFage/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
