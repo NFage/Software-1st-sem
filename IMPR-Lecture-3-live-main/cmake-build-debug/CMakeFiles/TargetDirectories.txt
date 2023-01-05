@@ -1,0 +1,6 @@
+C:/Users/Bruger/CLionProjects/IMPR-Lecture-3-live-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bruger/CLionProjects/IMPR-Lecture-3-live-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Bruger/CLionProjects/IMPR-Lecture-3-live-main/cmake-build-debug/src/CMakeFiles/lecture3_live.dir
+C:/Users/Bruger/CLionProjects/IMPR-Lecture-3-live-main/cmake-build-debug/src/CMakeFiles/sten_saks_papir.dir
+C:/Users/Bruger/CLionProjects/IMPR-Lecture-3-live-main/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Bruger/CLionProjects/IMPR-Lecture-3-live-main/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
