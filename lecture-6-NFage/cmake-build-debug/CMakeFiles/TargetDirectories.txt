@@ -1,0 +1,13 @@
+C:/Users/Bruger/CLionProjects/lecture-6-NFage/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bruger/CLionProjects/lecture-6-NFage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Bruger/CLionProjects/lecture-6-NFage/cmake-build-debug/src/CMakeFiles/exercise-5.3.dir
+C:/Users/Bruger/CLionProjects/lecture-6-NFage/cmake-build-debug/src/CMakeFiles/exercise-5.5.dir
+C:/Users/Bruger/CLionProjects/lecture-6-NFage/cmake-build-debug/src/CMakeFiles/exercise-5.6.dir
+C:/Users/Bruger/CLionProjects/lecture-6-NFage/cmake-build-debug/src/CMakeFiles/exercise-6.1.dir
+C:/Users/Bruger/CLionProjects/lecture-6-NFage/cmake-build-debug/src/CMakeFiles/exercise-6.2.dir
+C:/Users/Bruger/CLionProjects/lecture-6-NFage/cmake-build-debug/src/CMakeFiles/exercise-6.3.dir
+C:/Users/Bruger/CLionProjects/lecture-6-NFage/cmake-build-debug/src/CMakeFiles/exercise-6.4.dir
+C:/Users/Bruger/CLionProjects/lecture-6-NFage/cmake-build-debug/src/CMakeFiles/exercise-6.6.dir
+C:/Users/Bruger/CLionProjects/lecture-6-NFage/cmake-build-debug/src/CMakeFiles/exercise-PSPDC-391-7.dir
+C:/Users/Bruger/CLionProjects/lecture-6-NFage/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Bruger/CLionProjects/lecture-6-NFage/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir

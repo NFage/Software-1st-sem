@@ -1,0 +1,3 @@
+C:/Users/Bruger/CLionProjects/Lecture8/cmake-build-debug/CMakeFiles/Lecture8.dir
+C:/Users/Bruger/CLionProjects/Lecture8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bruger/CLionProjects/Lecture8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
