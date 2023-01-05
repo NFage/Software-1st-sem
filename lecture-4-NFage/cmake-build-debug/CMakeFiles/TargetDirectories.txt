@@ -1,0 +1,17 @@
+C:/Users/Bruger/CLionProjects/lecture-4-NFage/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bruger/CLionProjects/lecture-4-NFage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Bruger/CLionProjects/lecture-4-NFage/cmake-build-debug/src/CMakeFiles/exercise-4.1.dir
+C:/Users/Bruger/CLionProjects/lecture-4-NFage/cmake-build-debug/src/CMakeFiles/exercise-4.2.dir
+C:/Users/Bruger/CLionProjects/lecture-4-NFage/cmake-build-debug/src/CMakeFiles/exercise-4.3.dir
+C:/Users/Bruger/CLionProjects/lecture-4-NFage/cmake-build-debug/src/CMakeFiles/exercise-4.5.dir
+C:/Users/Bruger/CLionProjects/lecture-4-NFage/cmake-build-debug/src/CMakeFiles/exercise-PSPDC-226-1.dir
+C:/Users/Bruger/CLionProjects/lecture-4-NFage/cmake-build-debug/src/CMakeFiles/exercise-PSPDC-267-1.dir
+C:/Users/Bruger/CLionProjects/lecture-4-NFage/cmake-build-debug/src/CMakeFiles/exercise-PSPDC-227-1.dir
+C:/Users/Bruger/CLionProjects/lecture-4-NFage/cmake-build-debug/src/CMakeFiles/exercise-PSPDC-275-2.dir
+C:/Users/Bruger/CLionProjects/lecture-4-NFage/cmake-build-debug/src/CMakeFiles/exercise-PSPDC-275-6.dir
+C:/Users/Bruger/CLionProjects/lecture-4-NFage/cmake-build-debug/src/CMakeFiles/exercise-PSPDC-281-1.dir
+C:/Users/Bruger/CLionProjects/lecture-4-NFage/cmake-build-debug/src/CMakeFiles/exercise-PSPDC-281-2.dir
+C:/Users/Bruger/CLionProjects/lecture-4-NFage/cmake-build-debug/src/CMakeFiles/exercise-PSPDC-292-2.dir
+C:/Users/Bruger/CLionProjects/lecture-4-NFage/cmake-build-debug/src/CMakeFiles/exercise-PSPDC-292-P2.dir
+C:/Users/Bruger/CLionProjects/lecture-4-NFage/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Bruger/CLionProjects/lecture-4-NFage/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
