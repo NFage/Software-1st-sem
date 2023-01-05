@@ -1,0 +1,4 @@
+C:/Users/Bruger/CLionProjects/lecture-6-Live-Coding/cmake-build-debug/CMakeFiles/hello.dir
+C:/Users/Bruger/CLionProjects/lecture-6-Live-Coding/cmake-build-debug/CMakeFiles/lecture_6_Live_Coding.dir
+C:/Users/Bruger/CLionProjects/lecture-6-Live-Coding/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bruger/CLionProjects/lecture-6-Live-Coding/cmake-build-debug/CMakeFiles/rebuild_cache.dir
