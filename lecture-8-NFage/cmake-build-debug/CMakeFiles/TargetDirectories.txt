@@ -1,0 +1,17 @@
+C:/Users/Bruger/CLionProjects/lecture-8-NFage/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/Bruger/CLionProjects/lecture-8-NFage/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bruger/CLionProjects/lecture-8-NFage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Bruger/CLionProjects/lecture-8-NFage/cmake-build-debug/src/CMakeFiles/point_distance.dir
+C:/Users/Bruger/CLionProjects/lecture-8-NFage/cmake-build-debug/src/CMakeFiles/menu.dir
+C:/Users/Bruger/CLionProjects/lecture-8-NFage/cmake-build-debug/src/CMakeFiles/exercise-PSPDC-391-7.dir
+C:/Users/Bruger/CLionProjects/lecture-8-NFage/cmake-build-debug/src/CMakeFiles/time_calc.dir
+C:/Users/Bruger/CLionProjects/lecture-8-NFage/cmake-build-debug/src/CMakeFiles/test.dir
+C:/Users/Bruger/CLionProjects/lecture-8-NFage/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Bruger/CLionProjects/lecture-8-NFage/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+C:/Users/Bruger/CLionProjects/lecture-8-NFage/cmake-build-debug/test/CMakeFiles/test_point_distance_2d.dir
+C:/Users/Bruger/CLionProjects/lecture-8-NFage/cmake-build-debug/test/CMakeFiles/test_point_distance_nd.dir
+C:/Users/Bruger/CLionProjects/lecture-8-NFage/cmake-build-debug/test/CMakeFiles/test_point_distance_input.dir
+C:/Users/Bruger/CLionProjects/lecture-8-NFage/cmake-build-debug/test/CMakeFiles/time_test.dir
+C:/Users/Bruger/CLionProjects/lecture-8-NFage/cmake-build-debug/test/CMakeFiles/test.dir
+C:/Users/Bruger/CLionProjects/lecture-8-NFage/cmake-build-debug/test/CMakeFiles/edit_cache.dir
+C:/Users/Bruger/CLionProjects/lecture-8-NFage/cmake-build-debug/test/CMakeFiles/rebuild_cache.dir
