@@ -1,0 +1,5 @@
+C:/Users/Bruger/CLionProjects/project-2-NFage/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Bruger/CLionProjects/project-2-NFage/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Bruger/CLionProjects/project-2-NFage/cmake-build-debug/src/CMakeFiles/game_of_lines.dir
+C:/Users/Bruger/CLionProjects/project-2-NFage/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/Bruger/CLionProjects/project-2-NFage/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
